@@ -1,6 +1,6 @@
-#FORK Note I'm useing this in my project and did not want to lose it to nonsense.
-More details about that later.
-But tldr: we need good tools like this for privacy and for accessibility.
+#FORK Note I'm useing this in my project and did not want to lose it to nonsense,
+more details about that later.
+But tldr: We need good tools like this for privacy and for accessibility.
 
 
 # Supertonic — Lightning Fast, On-Device, Accurate TTS
